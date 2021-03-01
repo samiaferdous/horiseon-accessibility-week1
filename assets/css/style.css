@@ -1,3 +1,5 @@
+/* HORISEON WEBSITE CSS RULES */
+
 * {
     box-sizing: border-box;
     padding: 0;
@@ -8,6 +10,7 @@ body {
     background-color: #d9dcd6;
 }
 
+/* Apply styles to Header */
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -41,10 +44,13 @@ body {
     margin-left: 25px;
 }
 
+/* Apply styles to anchor tags */
 a {
     color: #ffffff;
     text-decoration: none;
 }
+
+/* Apply Styles to Page Content */
 
 p {
     font-size: 16px;
@@ -188,6 +194,8 @@ p {
     font-size: 36px;
 }
 
+/* Apply Styles to Footer */
+
 .footer {
     padding: 30px;
     clear: both;
@@ -198,3 +206,5 @@ p {
 .footer h2 {
     font-size: 20px;
 }
+
+/* END OF CSS STYLES */
